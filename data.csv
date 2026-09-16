@@ -1,0 +1,2 @@
+in:Window Ratio,in:Depth of Shading Device,out:Avg SDA,out:Avg ASE,out:eui,out:Temperature,out:PMV,img,threeD
+1.79,1,0.96594,74.5475,10.656,27.57142,1.043266,WindowRatio1.79_DepthofShadingDevice1_Perspective.png,WindowRatio1.79_DepthofShadingDevice1.json
